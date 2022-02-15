@@ -9,5 +9,5 @@ fun foo(a: A) {
 
     "asdf"
 
-    if (a is Int) {}
+    if (a is Any) {}
 }
