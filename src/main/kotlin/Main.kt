@@ -10,4 +10,5 @@ fun foo(a: A) {
     "asdf"
 
     if (a is Any) {}
+
 }
